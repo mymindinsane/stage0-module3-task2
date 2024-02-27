@@ -10,5 +10,9 @@ public class CopiedNames {
         int sixthVariable = 5000;
         int seventhVariable = 7000;
         int eightVariable = 90000;
+        int ninthVariable = 100000;
+        int tenthVariable = 1000000;
+        int eleventhVariable = 1234567;
+        int twelveVariable = 1234567;
     }
 }
